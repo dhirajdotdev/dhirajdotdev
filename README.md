@@ -1,11 +1,149 @@
-# 💫 About Me:
-Software Developer | Building scalable web apps | Exploring AI & full-stack innovation
+# Hey, I'm Dhiraj 👋
 
+### Software Developer · Full-Stack Engineer · Open-Source Builder
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhirajdotdev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhirajdotdev) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/dhirajdotdev) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dhirajdotdev) 
+I build scalable web applications, developer tools, and products that solve real problems. I'm particularly interested in backend engineering, system design, and exploring how AI can improve the way we build software.
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B)
+- 🔭 **Currently building:** [Bend](https://github.com/bendhq/bend) — a backend scaffolding and development toolkit.
+- 🧠 **Currently exploring:** Spec-Driven Development, AI-assisted engineering, and scalable backend architecture.
+- 💻 **Core stack:** TypeScript, JavaScript, Node.js, Express, React, Next.js, and MongoDB.
+- 🚀 **Interests:** Developer tooling, open source, APIs, and full-stack product development.
+- 📍 **Based in:** Kolkata, India.
+- 💬 **Let's talk about:** Backend development, TypeScript, JavaScript, and building products.
 
-  
+---
+
+## 🌐 Connect with me
+
+<p align="left">
+  <a href="https://x.com/dhirajdotdev">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://linkedin.com/in/dhirajdotdev">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/dhirajdotdev">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://reddit.com/user/dhirajdotdev">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
+  </a>
+  <a href="https://dhiraj.dev">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js" alt="TypeScript and JavaScript" />
+</p>
+
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,redux,reactrouter" alt="Frontend technologies" />
+</p>
+
+### Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,bun,prisma" alt="Backend technologies" />
+</p>
+
+### Databases & Backend Services
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,appwrite" alt="Databases and backend services" />
+</p>
+
+### Tools, Testing & Deployment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,npm,pnpm,docker,postman,vercel,netlify,render,vitest,jest" alt="Development tools" />
+</p>
+
+**Also familiar with:** REST APIs, JWT authentication, React Hook Form, webhooks, CI/CD, environment configuration, and modern JavaScript tooling.
+
+---
+
+## 🚀 Featured Projects
+
+### [Bend](https://github.com/bendhq/bend)
+
+**A backend scaffolding toolkit for modern JavaScript and TypeScript development.**
+
+- Scaffold backend applications with ready-to-use project templates.
+- Work with frameworks such as Express and Fastify.
+- Choose database integrations including Prisma and Mongoose.
+- Streamline project setup with runtime and package-manager detection.
+
+`TypeScript` `Node.js` `Express` `Fastify` `Prisma` `MongoDB`
+
+### mongodbcopy
+
+**A CLI tool for copying, exporting, and importing MongoDB collections.**
+
+- Simplify MongoDB collection migration and data transfer workflows.
+- Automate repetitive database operations.
+- Build reliable tooling with TypeScript and automated tests.
+
+`TypeScript` `MongoDB` `CLI` `Vitest`
+
+### Zormly
+
+**A modern form-building platform inspired by Typeform.**
+
+- Drag-and-drop form builder and reusable templates.
+- Form analytics, team workspaces, and webhook integrations.
+- CSV exports and payment-enabled plans.
+
+`Next.js` `TypeScript` `Express` `PostgreSQL` `Turborepo`
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=dhirajdotdev&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"
+    alt="GitHub statistics"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhirajdotdev&layout=compact&hide_border=true&theme=github_dark"
+    alt="Most used programming languages"
+    height="165"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=dhirajdotdev&theme=github-dark-blue&hide_border=true"
+    alt="GitHub contribution streak"
+  />
+</p>
+
+---
+
+## 💡 What I'm Focused On
+
+- **Backend engineering:** API design, database modeling, performance, and scalable architecture.
+- **Developer experience:** Building CLIs, reusable tooling, and better development workflows.
+- **Full-stack development:** Turning product ideas into complete, production-ready applications.
+- **AI-assisted engineering:** Using specification-driven workflows to improve planning, implementation, and code quality.
+- **Open source:** Building useful tools and contributing to the developer ecosystem.
+
+---
+
+<p align="center">
+  <i>Build useful things. Keep learning. Ship consistently.</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dhirajdotdev&style=flat&color=blue" alt="Profile views" />
+</p>
